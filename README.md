@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KrunalDarekar
-- 👀 I’m interested in ...blockchains 
-- 🌱 I’m currently learning ...java 
-- 💞️ I’m looking to collaborate on ...java projects
+- 👀 I’m interested in ...web development
+- 🌱 I’m currently learning ...HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on ...front-end parts of projects
 - 📫 How to reach me ...krunaldarekar29@gmail.com
 
 <!---
