@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrunalDarekar
-- 👀 I’m interested in ...web development, web#
+- 👀 I’m interested in ...web development, web3
 - 🌱 I’m currently learning ...React, express and Next
 - 💞️ I’m looking to collaborate on ...making UI's for web3 projects
 - 📫 How to reach me ...krunaldarekar29@gmail.com
